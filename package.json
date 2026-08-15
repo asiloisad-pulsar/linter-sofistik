@@ -1,7 +1,7 @@
 {
   "name": "linter-sofistik",
   "description": "Display SOFiSTiK compilation errors",
-  "repository": "https://github.com/asiloisad/pulsar-linter-sofistik",
+  "repository": "https://github.com/asiloisad-pulsar/linter-sofistik",
   "keywords": [
     "linter",
     "sofistik"

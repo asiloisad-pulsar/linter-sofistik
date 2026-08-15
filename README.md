@@ -11,7 +11,7 @@ Display SOFiSTiK compilation errors. Reads error messages from SOFiSTiK output a
 
 To install `linter-sofistik` search for [linter-sofistik](https://web.pulsar-edit.dev/packages/linter-sofistik) in the Install pane of the Pulsar settings or run `ppm install linter-sofistik`. Alternatively, you can run `ppm install asiloisad/pulsar-linter-sofistik` to install a package directly from the GitHub repository.
 
-This package requires [language-sofistik](https://github.com/asiloisad/pulsar-language-sofistik).
+This package requires [language-sofistik](https://github.com/asiloisad-pulsar/language-sofistik).
 
 ## Contributing
 
