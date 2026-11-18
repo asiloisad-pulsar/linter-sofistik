@@ -2,6 +2,9 @@
 
 Display SOFiSTiK compilation errors. Reads error messages from SOFiSTiK output and shows them using the linter interface.
 
+> [!NOTE]
+> This package is in maintenance mode. If you use [Lumine](https://github.com/lumine-code/lumine), you may be interested in [ide-sofistik](https://github.com/lumine-code/ide-sofistik).
+
 ## Features
 
 - **Error display**: Shows SOFiSTiK errors with linter UI.
